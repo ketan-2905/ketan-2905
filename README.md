@@ -15,16 +15,22 @@
 
 </div>
 
+<!--EVAL:START-->
 ```console
-$ eval-run --subject "Ketan Gaikwad" --explain
+$ eval-run --subject "Ketan Gaikwad" --live --explain
 
-  loading evidence ....... 40+ public repos · 6 hackathon wins
+  sampling evidence ...... 42 public repos · 5 languages · 6 hackathon wins
+  language mix ........... TypeScript 19, JavaScript 10, Python 9, Java 2
+  last push .............. 0h ago
   judging ................ ████████████████████████████ 100%
 
   VERDICT   builds LLM systems that can prove they were right
   CONF      0.94
   ABSTAIN   when the sources don't support an answer
+
+  evaluated at 2026-11-21 19:21 UTC · this block is regenerated daily by CI
 ```
+<!--EVAL:END-->
 
 > I work on the unglamorous half of AI: the part that checks whether the model was actually
 > right. Retrieval evals, guardrails, structured outputs, traces. If an answer can't be traced
@@ -135,6 +141,10 @@ observability: Prometheus · OpenTelemetry · pytest
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ketan-2905/ketan-2905/output/github-snake.svg"/>
   <img src="https://raw.githubusercontent.com/ketan-2905/ketan-2905/output/snake-neon.svg" width="100%" alt="contribution snake"/>
 </picture>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ketan-2905&bg_color=0b1020&color=38bdf8&line=f472b6&point=ffffff&area=true&area_color=38bdf8&hide_border=true&custom_title=contribution%20trace&radius=8" width="100%" alt="activity graph"/>
+
+<br/>
 
 ### the year, in three dimensions
 
