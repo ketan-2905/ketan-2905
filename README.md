@@ -111,8 +111,6 @@ observability: Prometheus · OpenTelemetry · pytest
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-5d92-4c18-97d1-93d6a65e1d7b.png" width="60" alt=""/>
-
 🥈 **Codex Community Hackathon**, Infosys Pune — 2nd Place · **$2K** &nbsp;·&nbsp; 🥇 **Hawkathon 2026**, AI Skill Tech University — 1st Place
 
 🥇 **DATATHON 2026 (Core ML)** — Winner at KJSCE &nbsp;·&nbsp; 🏅 **Hackxios 2026** &nbsp;·&nbsp; **Hackniche 2026** &nbsp;·&nbsp; **HACKANOVA 5.0**
