@@ -28,7 +28,7 @@ $ eval-run --subject "Ketan Gaikwad" --live --explain
   CONF      0.94
   ABSTAIN   when the sources don't support an answer
 
-  evaluated at 2026-11-21 19:22 UTC · this block is regenerated daily by CI
+  evaluated at 2026-11-21 19:30 UTC · this block is regenerated daily by CI
 ```
 <!--EVAL:END-->
 
