@@ -20,7 +20,7 @@
 $ eval-run --subject "Ketan Gaikwad" --live --explain
 
   sampling evidence ...... 42 public repos · 5 languages · 6 hackathon wins
-  language mix ........... TypeScript 19, JavaScript 10, Python 9, Java 2
+  language mix ........... TypeScript 19, Python 10, JavaScript 10, Java 2
   last push .............. 0h ago
   judging ................ ████████████████████████████ 100%
 
@@ -28,7 +28,7 @@ $ eval-run --subject "Ketan Gaikwad" --live --explain
   CONF      0.94
   ABSTAIN   when the sources don't support an answer
 
-  evaluated at 2026-11-21 19:21 UTC · this block is regenerated daily by CI
+  evaluated at 2026-11-21 19:22 UTC · this block is regenerated daily by CI
 ```
 <!--EVAL:END-->
 
