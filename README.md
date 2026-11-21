@@ -11,6 +11,14 @@
 
 <img src="https://skillicons.dev/icons?i=python,go,ts,fastapi,django,postgres,redis,neo4j,docker,nextjs&perline=10&theme=dark" alt=""/>
 
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ketan-2905/ketan-2905/arcade/pacman-contribution-graph-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ketan-2905/ketan-2905/arcade/pacman-contribution-graph.svg"/>
+  <img src="https://raw.githubusercontent.com/ketan-2905/ketan-2905/arcade/pacman-contribution-graph-dark.svg" width="100%" alt=""/>
+</picture>
+
 </div>
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
