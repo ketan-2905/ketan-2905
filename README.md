@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,45:38bdf8,100:f472b6&height=230&section=header&text=Ketan%20Gaikwad&fontSize=62&fontColor=ffffff&fontAlignY=36&desc=LLM%20systems%20%C2%B7%20retrieval%20%C2%B7%20guardrails%20%C2%B7%20evaluation&descAlignY=56&descSize=18&animation=fadeIn" width="100%" alt="Ketan Gaikwad"/>
+<img src="./assets/header.svg" width="100%" alt="trace: retrieve, rerank, generate, verify, verdict"/>
 
 <div align="center">
 
@@ -39,8 +39,6 @@ $ eval-run --subject "Ketan Gaikwad" --live --explain
 ---
 
 ## check_01 · how I build
-
-<img src="./assets/header.svg" width="100%" alt="trace: retrieve, rerank, generate, verify, verdict"/>
 
 Every system below follows the same shape — retrieve, constrain, verify, and refuse to answer when the evidence isn't there.
 
@@ -142,9 +140,37 @@ observability: Prometheus · OpenTelemetry · pytest
   <img src="https://raw.githubusercontent.com/ketan-2905/ketan-2905/output/snake-neon.svg" width="100%" alt="contribution snake"/>
 </picture>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ketan-2905&bg_color=0b1020&color=38bdf8&line=f472b6&point=ffffff&area=true&area_color=38bdf8&hide_border=true&custom_title=contribution%20trace&radius=8" width="100%" alt="activity graph"/>
+### the arcade
 
-<br/>
+Same contribution grid, three more ways to destroy it.
+
+<b>PAC-MAN</b><br/>
+<sub>ghosts included</sub>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ketan-2905/ketan-2905/arcade/pacman-contribution-graph-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ketan-2905/ketan-2905/arcade/pacman-contribution-graph.svg"/>
+  <img src="https://raw.githubusercontent.com/ketan-2905/ketan-2905/arcade/pacman-contribution-graph-dark.svg" width="100%" alt="PAC-MAN"/>
+</picture>
+
+<b>BREAKOUT</b><br/>
+<sub>one commit, one brick</sub>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ketan-2905/ketan-2905/arcade/breakout-contribution-graph-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ketan-2905/ketan-2905/arcade/breakout-contribution-graph.svg"/>
+  <img src="https://raw.githubusercontent.com/ketan-2905/ketan-2905/arcade/breakout-contribution-graph-dark.svg" width="100%" alt="BREAKOUT"/>
+</picture>
+
+<b>TETRIS</b><br/>
+<sub>the grid, stacked</sub>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ketan-2905/ketan-2905/arcade/tetris-contribution-graph-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ketan-2905/ketan-2905/arcade/tetris-contribution-graph.svg"/>
+  <img src="https://raw.githubusercontent.com/ketan-2905/ketan-2905/arcade/tetris-contribution-graph-dark.svg" width="100%" alt="TETRIS"/>
+</picture>
+
 
 ### the year, in three dimensions
 
@@ -168,4 +194,3 @@ $ eval-run --explain --why
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f472b6,55:38bdf8,100:0b1020&height=140&section=footer&text=build%20things%20that%20can%20prove%20they%20were%20right&fontSize=20&fontColor=ffffff&fontAlignY=72" width="100%" alt=""/>
